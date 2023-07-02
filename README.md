@@ -1,51 +1,17 @@
-# Starlight Starter Kit: Basics
+# Welcome to the RDDI repo
 
-```
-npm create astro@latest -- --template starlight
-```
+Hello and welcome to the Climate Solutions Repository, a collaborative open-source platform dedicated to addressing climate change through innovative solutions. Our goal is to create an inclusive community where scientists, innovators, corporations, and the public can contribute their ideas and work together to create a diverse and comprehensive collection of climate solutions.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
+Getting Started
+To begin exploring our repository, feel free to browse the solutions available in the different categories and subcategories. You can also use the search functionality to find specific solutions based on your needs.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+If you find our project valuable, we encourage you to star :star: the repository to show your support and help increase its visibility. This way, more people can benefit from the solutions available here.
 
-## 🚀 Project Structure
+To stay updated on the latest additions and improvements, be sure to follow :eyes: the repository. By following, you'll receive notifications when there are new updates, ensuring you never miss out on any exciting developments.
 
-Inside of your Astro + Starlight project, you'll see the following folders and files:
+If you'd like to use any of our climate solutions for your own projects or contribute to their ongoing development, feel free to fork :fork_and_knife: the repository and make any necessary modifications. We appreciate your contributions and look forward to seeing how you adapt and build upon our solutions.
 
-```
-.
-├── public/
-├── src/
-│   ├── assets/
-│   ├── content/
-│   │   ├── docs/
-│   │   └── config.ts
-│   └── env.d.ts
-├── astro.config.mjs
-├── package.json
-└── tsconfig.json
-```
+Contributing
+We welcome contributions from everyone, regardless of your background or expertise. If you have an idea for a new climate solution or an improvement to an existing one, check out our CONTRIBUTING.md file for guidelines on how to submit your proposal.
 
-Starlight looks for `.md` or `.mdx` files in the `src/content/docs/` directory. Each file is exposed as a route based on its file name.
-
-Images can be added to `src/assets/` and embedded in Markdown with a relative link.
-
-Static assets, like favicons, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:3000`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+Together, we can make a positive impact on our planet and help combat climate change. Thank you for joining our community, and we look forward to collaborating with you!
