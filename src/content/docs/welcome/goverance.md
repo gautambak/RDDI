@@ -7,7 +7,7 @@ description: Goverance
 Our governance model is designed to be decentralized and representative of the diversity of stakeholders involved in climate action. We believe collective decision making and community control will enable the transparency and responsiveness needed to drive real progress.
 
 ## Who are we?
-This project is founded by the team at 15Rock with expertise in climate science, policy, and technology. We have seen firsthand the gaps in current climate plans and their validation approaches through our work with researchers, corporations, NGOs and policymakers. There is an urgent need for an open, collaborative platform to set a credible benchmark for climate plans and solutions across sectors.
+This project is founded by the team at [15Rock](https://15rock.com) with expertise in climate science, policy, and technology. We have seen firsthand the gaps in current climate plans and their validation approaches through our work with researchers, corporations, NGOs and policymakers. There is an urgent need for an open, collaborative platform to set a credible benchmark for climate plans and solutions across sectors.
 
 To address this need, we are launching this project and contributing initial resources to establish a peer-reviewed framework for climate plan standards and validation. However, we aim to transition control of the project to the community as quickly and responsibly as possible. Our role is to catalyze action, not dominate the discussion.
 
