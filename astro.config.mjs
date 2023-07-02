@@ -27,7 +27,12 @@ export default defineConfig({
       }, {
         label: 'Get involved',
         link: '/welcome/get-involved/'
-      }]
+      }, {
+        label: 'Goverance(proposed)',
+        link: '/welcome/goverance/'
+      },
+
+    ]
     }
     // {
     //   label: 'Guides',
