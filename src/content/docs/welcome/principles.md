@@ -1,31 +1,8 @@
 ---
-title: Welcome to Research-Driven Decarbonization Initiative (RDDI)
-description: Get started building your docs site with Starlight.
-template: splash
-hero:
-  tagline: We want to help the world stop climate risk but it requires a open conversation and shared knowledge.
-          Humanity has solved many big problems in our history and we can solve climate change together.
-  image:
-    file: ../../assets/houston.webp
-  actions:
-    - text: Learn more
-      link: /welcome/startpage/
-      icon: right-arrow
-      variant: primary
-    - text: Sign up to be involved
-      link: https://tally.so/r/3yNADB
-      icon: external
+title: General Principles
+description: RDDI's General Principles
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
-
-# Mission: 
-### To enable effective climate action through open collaboration and transparent progress monitoring.
-
-# Vision: 
-### A world where the open-source model enables rapid progress towards net-zero emissions across all sectors of the economy.
-
-## Our General Princples
 
 1. **Open collaboration and open-source approaches** over closed innovation, to harness collective intelligence and encourage diverse contributions.
 2. **Dynamic responsiveness and continuous improvement** over rigid planning, to adapt strategies based on the latest findings and technologies.
