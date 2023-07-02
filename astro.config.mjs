@@ -3,8 +3,6 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://gautambak.github.io',
-  base: '/RDDI',
   integrations: [
     starlight({
       title: 'My Docs',
